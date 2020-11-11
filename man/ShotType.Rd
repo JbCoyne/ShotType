@@ -10,7 +10,6 @@ ShotType takes a paired coordinate (x,y) and outputs the area on an NBA court wh
 \usage{
 ShotType(x, y)
 }
-Used to map out shot areas.
 \arguments{
   \item{x}{
 Numeric value that represents the horizontal distance, in inches, from the top left corner of the NBA court when viewed from above.
